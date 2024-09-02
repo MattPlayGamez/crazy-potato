@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "key": {
+    "#": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "@": {
+      "item": "minecraft:diamond"
+    },
+    "§": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "@§@",
+    "§#§",
+    "@§@"
+  ],
+  "result": {
+    "count": 1,
+    "id": "best-food:crazy_potato"
+  }
+}
